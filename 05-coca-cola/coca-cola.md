@@ -425,7 +425,7 @@ Crie uma pasta chamada **img** e adicione as imagens abaixo:
     <aside>
     💡
     
-    Troque Fernando Leonid para o seu nome
+    Troque "Fernando Leonid" para o seu nome
     
     </aside>
     
@@ -458,7 +458,7 @@ Crie uma pasta chamada **img** e adicione as imagens abaixo:
 1. Adicione as mudanças ao Git:
     
     ```bash
-    git add index.html style.css
+    git add .
     
     ```
     
@@ -516,7 +516,7 @@ Crie uma pasta chamada **img** e adicione as imagens abaixo:
 1. Adicione as mudanças ao Git:
     
     ```bash
-    git add style.css
+    git add .
     
     ```
     
