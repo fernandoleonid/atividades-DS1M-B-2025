@@ -61,12 +61,7 @@ Lembre de substituir o endereço pelo endereço do seu repositório, para isso b
 
 ## 4. Criar o `index.html` com as Tags Básicas
 
-1. Abra o vscode, lembrando que estamos com o git bash aberto dento da pasta coca-cola-projet, feito no passo anterior:
-    
-    ```bash
-    code .
-    ```
-    
+1. Abra a pasta no vscode.
 
 1. Crie o arquivo *index.html*. Dentro dele, digite `!` (exclamação) e pressione *Enter*. Isso ativará o Emmet e gerará a estrutura básica do HTML automaticamente. Como mostra abaixo.
 
