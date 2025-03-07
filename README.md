@@ -6,7 +6,7 @@ Repositório para atividades realizadas durante as aulas de linguagem de program
 2.  Galeria (3x3)
 3.  Galeria (flex)
 4.  Galeira (Grid)
-5.  [Coca-Cola](https://github.com/fernandoleonid/atividades-DS1M-B-2025/tree/main/05-coca-cola/coca-cola.md)
+5.  [Coca-Cola](./05 - Coca-cola/05 - Projeto Coca-Cola.md)
 
 ## Requisitos das atividades
 Totas as atividades devem ter:
