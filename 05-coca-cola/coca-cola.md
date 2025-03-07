@@ -20,41 +20,23 @@
 
 1. Abra a pasta onde estão seus projetos. 
 2. Crie uma nova pasta e nomeie-a `coca-cola`.
-3. Abra o **Git Bash** na pasta criada. Para isso, clique com o botão direito do mouse dentro da pasta e escolha a opção ***Git Bash Here** ou **prompt** ou **terminal***
+3. Abre a pasta com o VSCODE.
 
 ---
 
 ## 3. Vincular a Pasta Local com o Repositório no GitHub
 
-1. Inicialize o repositório Git na pasta do projeto:
+1. Para isso basta copiar e colar o código fornecido pelo github, como mostra a imagem abaixo:
     
-    ```bash
-    git init
-    ```
-    
-2. Troque o nome da branch principal de master para main
-    
-    ```bash
-    git branch -m master main
-    ```
-    
-3. Vincule o repositório local ao GitHub:
-    
-    ```bash
-    git remote add origin ENDEREÇO_COPIADO_DO_GITHUB
-    ```
+![](vincular-repositorio.png)
     
 
 <aside>
 💡
 
-Lembre de substituir o endereço pelo endereço do seu repositório, para isso basta clicar no botao verde (code) e copiar, como mostra o print abaixo:
+Lembre para que serve cada linha copiada.
 
 </aside>
-
-- print
-    
-    ![image.png](image%201.png)
     
 
 ---
