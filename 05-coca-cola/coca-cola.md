@@ -273,6 +273,7 @@ Crie uma pasta chamada **img** e adicione as imagens abaixo:
         gap: 24px;
         color: #FFFFFF;
         padding-left: 75px;
+        justify-content: flex-start;
     }
     
     header span {
