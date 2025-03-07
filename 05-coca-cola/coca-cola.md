@@ -647,9 +647,4 @@ git commit -m "questões"
 git push
 ```
 
-### 18. Responda ou envie, com o endereço do repositório do github, para o e-mail do professor:
-
-```bash
-fernando.camelo@sp.senai.br
-fernandoleonid@gmail.com
-```
+### 18. Envie o endereço do repositório do GitHub para as Issues das atividades.
