@@ -4,7 +4,7 @@
 
 # Criando uma Página Web com HTML e CSS
 
-![image.png](image.png)
+![image.png](preview.gif)
 
 ## 1. Criar um Repositório no GitHub
 
