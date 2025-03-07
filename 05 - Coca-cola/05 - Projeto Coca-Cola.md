@@ -197,6 +197,7 @@ Lembre de substituir o endereço pelo endereço do seu repositório, para isso b
         height: 100vh;
         display: flex;
         flex-direction: column;
+        background:linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
     }
     
     header, footer {
