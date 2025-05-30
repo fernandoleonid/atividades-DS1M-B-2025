@@ -9,6 +9,7 @@ Repositório para atividades realizadas durante as aulas de linguagem de program
 5.  [Coca-Cola](./05-coca-cola/README.md)
 6.  [Figma](./06-figma/README.md)
 7.  [Tony Pizzaria](./07-tony-pizzaria/)
+8.  [Frameworks CSS](https://www.figma.com/design/of8zx8bMHyU8Rx4QSIneVt/SENAI-1.27?node-id=0-1&t=3xFyddrqjVx0lU4g-1)
 
 ## Requisitos das atividades
 Totas as atividades devem ter:
