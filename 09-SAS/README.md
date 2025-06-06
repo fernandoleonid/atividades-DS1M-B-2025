@@ -59,27 +59,12 @@ Com o contexto estabelecido, suas tarefas serão as seguintes:
 Clique [aqui](https://reliable-yttrium-924.notion.site/Atividades-Figma-88af74a199f84cbe9cf27ccdf79daf2b) para escolher um tema.
 
 
-| Aluno                                     | Tema |
-|------------------------------------------|------|
-| ANDRÉ ROBERTO TAVARES                    |  Valorant    |
-| ARTHUR ANGELUS ANDRADE DE ALMEIDA       |  Iron MAN    |
-| BRENO OLIVEIRA ASSIS REIS               |  APEX    |
-| EDVAN ALVES DE OLIVEIRA                 |  Portfolio    |
-| ENZO FELIX CARRILHO                     | Nike     |
-| GABRIEL JOSÉ SANTOS DA SILVA            | Coffe    |
-| GABRIEL LACERDA CORREIA                 |      |
-| GABRYEL FILLIPE CAVALCANTI DA SILVA     | E-Bike   |
-| GUILHERME MOREIRA DE SOUZA              | Riot Games     |
-| GUILHERME VIANA DE SOUZA                | Camera     |
-| GUSTAVO MATHIAS FLOR DOROTÉIO           |      |
-| JOÃO PEDRO TEODORO NUNES CORREIA        | Porsche     |
-| JOÃO VICTOR SANTOS DE MORAES            | Bike    |
-| KAUAN LOPES PEREIRA                     |      |****
+
 
 ---
 ### Entrega Final:
 
-DATA: 09/06/2025
+DATA: 13/06/2025
 
 Lembre-se que esta atividade é uma simulação de um cenário de trabalho real, onde sua capacidade de adaptar, codificar e entregar um produto responsivo será importante. **Sua entrega final será o link do seu repositório no GitHub**, contendo todo o código-fonte, o `README.md` documentado e o site publicado via GitHub Pages.
 
